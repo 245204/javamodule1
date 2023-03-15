@@ -3,7 +3,7 @@ package testlambdas;
 @FunctionalInterface
 interface Shape{
 	double area();//only one method is possible 
-//	double perimeter(); no error but the lambda function wont work
+//	double parameter(); no error but the lambda function wont work
 }
 
 interface Math{
