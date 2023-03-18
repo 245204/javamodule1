@@ -14,64 +14,64 @@ as per instructions i have uploaded the java course module1 files and shared the
 * Abstraction
 
 ## *OOPSday3:
-*Polymorphism
-*Overloading
-*Scanner Functions
+* Polymorphism
+* Overloading
+* Scanner Functions
 
 ## *OOPSday4:
-*Composition
-*Inheritance
-*Static Keywords
+* Composition
+* Inheritance
+* Static Keywords
 
 ## *OOPSday5:
-*Final specifiers
-*Subclass (Parent Child Relationship) 
-*Strings
+* Final specifiers
+* Subclass (Parent Child Relationship) 
+* Strings
 
 ## *OOPSday6
-*Exception Handling
+* Exception Handling
  
 ## *SOLIDS
-*di-Dependency Inversion
-*isp-Interface Segregation
-*lsp-Liskov Substitution
-*ocp-Open Principle
-*srp-Single Responsibility
+* di-Dependency Inversion
+* isp-Interface Segregation
+* lsp-Liskov Substitution
+* ocp-Open Principle
+* srp-Single Responsibility
 
 ## *Source Module
-*source module used it by using module info java where we exports and use the keyword requires
+* source module used it by using module info java where we exports and use the keyword requires
 
 ## *StateMachine
-*made a atm machine working
+* made a atm machine working
 
 ## *Testing With Junit
-*Did testing with the help of Juint
+* Did testing with the help of Juint
 
 ## *Collections
-*Did examples of Set Interfernce and List Interface
+* Did examples of Set Interfernce and List Interface
 
 ## *Collectionsday2
-*Did user defined objects in collections
+* Did user defined objects in collections
 
 ## *Enums
-*Learnt about Enums and its usage
+* Learnt about Enums and its usage
 
 ## *Java8Day
-*functionliterals
-*Optionals
-*Streams
-*Testlambdas
+* functionliterals
+* Optionals
+* Streams
+* Testlambdas
 
 ## *Javaioserialization
-*Did file functions read write
-*ReadJSON
+* Did file functions read write
+* ReadJSON
 
 ## *JavaRecords
-*Learnt about Records and its usage
+* Learnt about Records and its usage
 
 ## *Multithreading
-*MyRunnable
-*Mythread
-*Daemon
+* MyRunnable
+* Mythread
+* Daemon
 
        
