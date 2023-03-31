@@ -9,7 +9,7 @@ import java.util.TreeMap;
 
 public class TestTreeMap {
 	public static void main(String[] args) {
-		TreeMap<String, String> countryCurr = new TreeMap<>();
+		TreeMap<String,String> countryCurr= new TreeMap<>();
 		countryCurr.put("IND","Rupe");
 		countryCurr.put("USA", "Dollar");
 		countryCurr.put("UK", "Pound");

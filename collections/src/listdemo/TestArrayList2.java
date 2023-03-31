@@ -15,7 +15,7 @@ public class TestArrayList2 {
 		colors.add(null);
 		System.out.println(colors.size());
 		//String str=colors.get(3);
-		System.out.println(colors);
+		System.out.println(colors.equals("green"));
 		
 		
 

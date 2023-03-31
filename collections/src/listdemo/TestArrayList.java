@@ -7,9 +7,9 @@ public class TestArrayList {
 		
 		
 		ArrayList flowers=new ArrayList();
-		flowers.add(new Integer("1"));
-		//flowers.add(new java.util.Date()); to show we can add
-		flowers.add(new java.util.Scanner(System.in));
+		flowers.add(new Integer(1));
+		flowers.add(new java.util.Date()); //to show we can add
+		//flowers.add(new java.util.Scanner(System.in));
 		flowers.add(new Double("10.10"));
 		flowers.add("TulipS");
 		flowers.add("Rose");
@@ -20,7 +20,7 @@ public class TestArrayList {
 		
 		//String str=(String) flowers.get(3);
 		
-		Object obj =flowers.get(3);
+		Object obj =flowers.get(2);
 		if (obj instanceof Integer)
 		{
            Integer in=(Integer)obj;
@@ -37,7 +37,7 @@ public class TestArrayList {
 			System.out.println(str.toUpperCase());
 		}
 		String str=(String)flowers.get(5);
-		System.out.println();
+		System.out.println(str);
 		
 		
 		/*

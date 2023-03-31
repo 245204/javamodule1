@@ -30,18 +30,14 @@ public class TestHashMap {
      	
      	//2.Values view
      	
-     	Collection<String> values=countryCurr.values();
-     	for(String value:values)
-     	{
-     		System.out.println(value);
-     	}
-     	
-     	//3.Entry values together   Entry
-     	Set<Entry<String,String>> entries =countryCurr.entrySet();
-     	for(Entry<String,String> entry:entries)
-     	{
-     		System.out.println(entry);
-     	}
+		/*
+		 * Collection<String> values=countryCurr.values(); for(String value:values) {
+		 * System.out.println(value); }
+		 * 
+		 * //3.Entry values together Entry Set<Entry<String,String>> entries
+		 * =countryCurr.entrySet(); for(Entry<String,String> entry:entries) {
+		 * System.out.println(entry); }
+		 */
 	}
 
 }

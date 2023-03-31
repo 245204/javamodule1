@@ -22,10 +22,10 @@ public class TestHashSet {     //no order in printing
 		
 		
 		bookSet.add("Thinking in java");
-		System.out.println(bookSet.size());
-		for(String book:bookSet) {
-			System.out.println(book);
-		}
+		/*
+		 * System.out.println(bookSet.size()); for(String book:bookSet) {
+		 * System.out.println(book); }
+		 */
 		Iterator<String> iter=bookSet.iterator();
 		while(iter.hasNext()) {
 			System.out.println(iter.next());
