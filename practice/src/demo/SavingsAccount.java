@@ -7,7 +7,8 @@ class SavingsAccount {
 
 
 public int calculateMonthlyInterest() {
-	cml=(annualInterestRate*SavingBalance)/12;
+	cml=(annualInteresteRate*SavingBalance)/12;
 	SavingBalance=SavingBalance+cml;
+	return 0;
 }
 }
